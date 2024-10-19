@@ -1,0 +1,1 @@
+This is my boulder share project, it is a website where a user can sign up or log in and post about their favorite boulder and view other peoples favorite boulders. You can also edit a boulder you have posted about or remove it.
